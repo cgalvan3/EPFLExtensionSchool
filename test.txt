@@ -1,0 +1,5 @@
+This is the first file to commit in my Git repo :)
+
+Additional text for my second commit
+
+Third commit
